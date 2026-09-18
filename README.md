@@ -1,4 +1,4 @@
-# qinpeizhen-qin.github.io
+# qinpeizhen1.github.io
 
 个人研究、项目与博客站点。
 
@@ -6,7 +6,7 @@
 
 把本压缩包内的全部文件和文件夹上传到仓库根目录：
 
-`qinpeizhen-qin/qinpeizhen-qin.github.io`
+`qinpeizhen1/qinpeizhen1.github.io`
 
 然后在 GitHub 仓库中打开：
 
@@ -21,7 +21,7 @@ Settings → Pages → Build and deployment → Deploy from a branch
 
 网站地址：
 
-https://qinpeizhen-qin.github.io/
+https://qinpeizhen1.github.io/
 
 ## 目录
 
