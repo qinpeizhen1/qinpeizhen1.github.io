@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://qinpeizhen-qin.github.io/sitemap.xml
